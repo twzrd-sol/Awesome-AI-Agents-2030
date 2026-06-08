@@ -50,6 +50,7 @@ A curated list of **AI agents, frameworks, and tools for building autonomous AI 
 | ------------------------------------------------ | ----------------------------------- |
 | [LiteLLM](https://github.com/BerriAI/litellm)    | Unified interface for LLM APIs      |
 | [Helicone](https://github.com/helicone/helicone) | Observability platform for LLM apps |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring MCP for Solana AI agents — verify wallet identity before x402 micropayments |
 
 
 
